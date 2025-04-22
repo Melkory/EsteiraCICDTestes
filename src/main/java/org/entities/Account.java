@@ -6,7 +6,6 @@ public class Account {
 
     private Long id;
     private Double balance;
-    private Double total;
 
     public Account() {
     }
